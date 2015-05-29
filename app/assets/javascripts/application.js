@@ -14,3 +14,14 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require bootstrap
+//= require bootstrap.min
+//= require classie
+//= require custom
+//= require gnmenu
+//= require jquery-1.10.2
+//= require jquery.easing.min
+//= require jquery.min
+//= require jquery.scrollTo
+//= require nivo-lightbox.min
+//= require stellar
