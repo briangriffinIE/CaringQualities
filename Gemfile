@@ -7,6 +7,7 @@ gem 'rails', '4.0.13'
 group :development, :test do
   gem 'sqlite3'
 end
+# Use postgresql for production server
 group :production do
   gem 'pg'
 end
