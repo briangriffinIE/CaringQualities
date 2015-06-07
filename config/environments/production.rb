@@ -1,6 +1,6 @@
 CaringQualities::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
-  config.assets.precompile = ['*.js', '*.css', '*.css.erb']
+  config.assets.precompile = ['*.js', '*.css', '*.css.erb', '*.png', '*.gif', '*.jpg']
 
   # Code is not reloaded between requests.
   config.cache_classes = true
